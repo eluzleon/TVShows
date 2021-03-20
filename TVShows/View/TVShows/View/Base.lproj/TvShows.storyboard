@@ -48,7 +48,7 @@
         <scene sceneID="xWy-JV-lSv">
             <objects>
                 <navigationController id="EHn-qE-b6N" sceneMemberID="viewController">
-                    <tabBarItem key="tabBarItem" title="Tv Shows" image="list.dash" catalog="system" selectedImage="list.dash" id="O4M-DU-qY1"/>
+                    <tabBarItem key="tabBarItem" title="Tv Shows" id="O4M-DU-qY1"/>
                     <simulatedTabBarMetrics key="simulatedBottomBarMetrics"/>
                     <navigationBar key="navigationBar" contentMode="scaleToFill" insetsLayoutMarginsFromSafeArea="NO" barStyle="black" translucent="NO" largeTitles="YES" id="MXc-ch-H3a">
                         <rect key="frame" x="0.0" y="44" width="414" height="96"/>
@@ -70,7 +70,6 @@
         </scene>
     </scenes>
     <resources>
-        <image name="list.dash" catalog="system" width="128" height="85"/>
         <namedColor name="Barras">
             <color red="0.4779999852180481" green="0.24500000476837158" blue="0.99800002574920654" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
         </namedColor>

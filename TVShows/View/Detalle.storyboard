@@ -92,13 +92,13 @@
                                 </userDefinedRuntimeAttributes>
                             </label>
                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="fWP-d4-Z72">
-                                <rect key="frame" x="20" y="64" width="75" height="29"/>
+                                <rect key="frame" x="20" y="64" width="55" height="29"/>
                                 <constraints>
                                     <constraint firstAttribute="height" constant="29" id="edU-Rw-9ew"/>
                                 </constraints>
                                 <fontDescription key="fontDescription" type="boldSystem" pointSize="15"/>
                                 <color key="tintColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
-                                <state key="normal" title="  Cerrar" image="chevron.down.circle.fill" catalog="system">
+                                <state key="normal" title="  Cerrar">
                                     <color key="titleColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                                 </state>
                                 <connections>
@@ -175,7 +175,6 @@
     </scenes>
     <resources>
         <image name="1" width="540" height="130"/>
-        <image name="chevron.down.circle.fill" catalog="system" width="128" height="121"/>
         <namedColor name="BarraTexto">
             <color red="1" green="1" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
         </namedColor>
